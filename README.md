@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a tech billionaire, jk, -> Neural Networks, Workplace Streamlining, Gamification of Learning and Work. (I want to use AI for equality and use the humans for living)
 - 🌱 I’m currently learning the basics ... of OpenCV Neural Networks & Machine Learning,
 - 💞️ I’m looking to collaborate on ... Workplace Automation, Automation and Simplification of data-entry and basically gamification of education and  
-- 📫 How to reach me ... Email. LeannAlexandraViolet@gmail.com 
+- 📫 How to reach me ...<a href="mailto:leannalexandraviolet@gmail.com" target="_blank"> Email Me.</a>
 
 <!---
 LeannAlexandra/LeannAlexandra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
