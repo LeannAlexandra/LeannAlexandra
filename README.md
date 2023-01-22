@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LeannAlexandra ... Proleptic Tech Billionaire goddess of Tech.
-- 👀 I’m interested in becoming a tech billionaire, jk, -> Neural Networks, Workplace Streamlining, Gamification of Learning and Work. (I want to use AI for equality and use the humans for living)
-- 🌱 I’m currently learning the basics ... of OpenCV Neural Networks & Machine Learning,
-- 💞️ I’m looking to collaborate on ... Workplace Automation, Automation and Simplification of data-entry and basically gamification of education and  
+- 👋 Hi, I’m @LeannAlexandra ... 
+- 👀 I’m interested in becoming a programmer
+- 🌱 I’m currently learning the basics ... /* of OpenCV Neural Networks & Machine Learning,*/ [edit] in 2023 web development for the first time
+- 💞️ I’m looking to collaborate on ... Workplace Automation, Automation and Simplification of data-entry. Gamification of education is the future.  
 - 📫 How to reach me ...<a href="mailto:leannalexandraviolet@gmail.com" target="_blank"> Email Me.</a>
 
 <!---
