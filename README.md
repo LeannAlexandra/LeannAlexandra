@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeannAlexandra ... 
-- 👀 I’m interested in becoming a programmer
-- 🌱 I’m currently learning the basics ... /* of OpenCV Neural Networks & Machine Learning,*/ [edit] in 2023 web development for the first time
+- 👀 I’m interested in becoming a better programmer
+- 🌱 I currently do web development 
 - 💞️ I’m looking to collaborate on ... Workplace Automation, Automation and Simplification of data-entry. Gamification of education is the future.  
 - 📫 How to reach me ...<a href="mailto:leannalexandraviolet@gmail.com" target="_blank"> Email Me.</a>
 
