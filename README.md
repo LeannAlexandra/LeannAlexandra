@@ -1,19 +1,7 @@
 <h1>Hi I'm Alexandra</h1>
 <p>I build fun stuff</p>
-<p>📫 How to reach me ...<a href="mailto:leannalexandraviolet@gmail.com" target="_blank"> Email Me.</a></p>
-<div> 
-   <div class="col-12 col-md-4">
-    <h4>webdevelopment?</h4><p>I do some some of that, sometimes, but I prefer the algorithms - but do check out the graphical version of this page <a href="https://leannalexandra.github.io/" target="_blank">here</a></p>
-    <div class="">
-      <a href="https://leannalexandra.github.io/" target="_blank"></a>
-    </div>
-  </div>
-  <div class="col-12 col-md-4">
-    <h4>flood game</h4><p>- and working an ai project to solve it -</p>
-    <div class="">
-      <a href="https://leannalexandra.github.io/floodgame/" target="_blank"><img class="project-preview" src="https://leannalexandra.github.io/FloodGame.gif" alt=""></a>
-    </div>
-  </div>
+<a href="https://leannalexandra.github.io/" target="_blank">Like this website</a></p>
+   
   <div class="col-12 col-md-4">
         <h4>recursive backtracing algorithm</h4>
         <p>a small project to render the workings of recursive backtracking in maze creation </p>
