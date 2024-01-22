@@ -2,13 +2,6 @@
 <p>I build fun stuff</p>
 <a href="https://leannalexandra.github.io/" target="_blank">Like this website</a></p>
    
-  <div class="col-12 col-md-4">
-        <h4>recursive backtracing algorithm</h4>
-        <p>a small project to render the workings of recursive backtracking in maze creation </p>
-        <div class="    ">
-          <a><img class="project-preview" src="https://leannalexandra.github.io/maze_small.gif" alt=""></a>
-        </div>
-      </div>
     <div class="col-12 col-md-4">
         <h4>LAVTech Quick Pick</h4>
         <p>a small (windows) project to herd files to usb</p>
