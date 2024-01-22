@@ -1,7 +1,11 @@
 <h1>Hi I'm Alexandra</h1>
 <p>I build fun stuff</p>
 <a href="https://leannalexandra.github.io/" target="_blank">Like this website</a></p>
-   
+   <div>
+    <a href="https://leannalexandra.github.io/" target="_blank">
+        <iframe src="https://leannalexandra.github.io/" width="auto" height="400" frameborder="0"></iframe>
+    </a>
+</div>
  <div class="col-12 col-md-4">
         <h4>LAVTech Quick Pick</h4>
         <p>a small (windows) project to herd files to usb</p>
