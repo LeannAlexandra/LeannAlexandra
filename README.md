@@ -1,8 +1,10 @@
 <h1>Hi I'm Alexandra</h1>
 <p>I build fun stuff</p>
-<h2>Like this website</h2>
+ <div class="col-12 col-md-4">
+ <h2>Like this website</h2>
 <!-- <iframe src="https://leannalexandra.github.io/" width="auto" height="400" frameborder="0"></iframe> -->
-<a href="https://leannalexandra.github.io/" target="_blank">TO THE SITE..</a>
+ 
+ <a href="https://leannalexandra.github.io/" target="_blank"><img class="project-preview" src="[https://https://github.com/LeannAlexandra/leannalexandra.github.io/blob/main/Screenshot_20240122_104648.png?raw=true" alt="my web page"></a>
 </div>
  <div class="col-12 col-md-4">
         <h4>LAVTech Quick Pick</h4>
