@@ -2,7 +2,7 @@
 <p>I build fun stuff</p>
  <div class="col-12 col-md-4">
  <h4>Like this website</h4>
- <a href="https://leannalexandra.github.io/" target="_blank"><img class="project-preview" src="https://https://github.com/LeannAlexandra/leannalexandra.github.io/blob/main/Screenshot_20240122_104648.png?raw=true" alt="my web page"></a>
+ <a href="https://leannalexandra.github.io/" target="_blank"><img class="project-preview" src="https://github.com/LeannAlexandra/leannalexandra.github.io/blob/main/Screenshot_20240122_104648.png" alt="my web page"></a>
 </div>
  <div class="col-12 col-md-4">
         <h4>LAVTech Quick Pick</h4>
