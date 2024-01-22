@@ -2,7 +2,7 @@
 <p>I build fun stuff</p>
 <a href="https://leannalexandra.github.io/" target="_blank">Like this website</a></p>
    
-    <div class="col-12 col-md-4">
+ <div class="col-12 col-md-4">
         <h4>LAVTech Quick Pick</h4>
         <p>a small (windows) project to herd files to usb</p>
         <div class="    ">
