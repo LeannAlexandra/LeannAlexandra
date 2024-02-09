@@ -1,5 +1,11 @@
 <h1>Hi I'm Alexandra</h1>
 <p>I build fun stuff</p>
+##skipAdd
+![image](https://github.com/LeannAlexandra/LeannAlexandra/assets/81232303/a27e3935-e818-46f8-87fd-251a6ac4e4d1)
+An implementation of openCV and Tesseract to quiet those pesky video site ads.
+
+
+
  <div class="col-12 col-md-4">
  <h4>Like this website</h4>
  <a href="https://leannalexandra.github.io/" target="_blank"><img class="project-preview" src="https://github.com/LeannAlexandra/leannalexandra.github.io/blob/main/Screenshot_20240122_104648.png" alt="my web page"></a>
