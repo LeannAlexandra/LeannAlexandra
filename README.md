@@ -1,7 +1,7 @@
 <h1>Hi I'm Alexandra</h1>
 <p>I build fun stuff</p>
-## SkipAdd
-An implementation of openCV and Tesseract to quiet those pesky video site ads. 
+<h4>SkipAdd</h4>h4>
+<p>An implementation of openCV and Tesseract to quiet those pesky video site ads. </p> 
 <a href="https://github.com/LeannAlexandra/skipAd" target="_blank"><img class="project-preview" src="https://github.com/LeannAlexandra/skipAd/raw/main/images/proof2.png" alt="skip This Add Now"></a>
 
  <div class="col-12 col-md-4">
