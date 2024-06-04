@@ -1,5 +1,9 @@
 <h1>Hi I'm Alexandra</h1>
 <p>I build fun stuff</p>
+<h4>reImagine</h4>
+A small exploration on understanding and implementing image blending and conversion techniques using OpenCV. This project includes a reactive Qt window that allows resizing and image saving through the menu bar, offering a sleek and simple design coupled with an effective algorithm for adding texture to input images.
+<img src="https://github.com/LeannAlexandra/reImagine/blob/main/reImagine_screenshot.png?raw=true" alt="Input Image" style="max-width: 100%; max-height: 200px; margin-bottom: 10px;">
+
 <h4>SkipAdd</h4>
 <p>An implementation of openCV and Tesseract to quiet those pesky video site ads. </p> 
 <a href="https://github.com/LeannAlexandra/skipAd" target="_blank"><img class="project-preview" src="https://github.com/LeannAlexandra/skipAd/raw/main/images/proof2.png" alt="skip This Add Now"></a>
